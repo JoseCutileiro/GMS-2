@@ -25,4 +25,4 @@ BE FREE TO MAKE ANY CHANGES INSIDE THE PROJECT
 *New bot*
 
 
-José Cutileiro IST 
+José Cutileiro 
