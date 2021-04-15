@@ -23,4 +23,4 @@ Note: The yyz file is NOT avaible for this project because this was indeed one o
 Note: The soundtracks used for this project were not composed by me and I have no legal rights to use them for a commercial purposes
 
 
-José Cutileiro IST
+José Cutileiro
